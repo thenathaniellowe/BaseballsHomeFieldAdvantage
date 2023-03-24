@@ -1,0 +1,40 @@
+X,Y,OBJECTID,NAME,CITY,STATE,CAPACITY,LATITUDE,LONGITUDE,LEAGUE,TEAM
+-117.8827133,33.80030823,1,Angel Stadium,Anaheim,CA,45050,33.80030823,-117.8827133,American,Los Angeles Angels
+-112.066803,33.44527054,2,Chase Field,Phoeniz,AZ,48633,33.44527054,-112.066803,National,Arizona Diamondbacks
+-75.16647339,39.90618134,3,Citizens Bank Park,Philadelphia,PA,43651,39.90618134,-75.16647339,National,Philadelphia Phillies
+-83.04882813,42.33927917,4,Comerica Park,Detroit,MI,41681,42.33927917,-83.04882813,American,Detroit Tigers
+-104.9941406,39.75635147,5,Coors Field,Denver,CO,50490,39.75635147,-104.9941406,National,Colorado Rockies
+-118.2399521,34.07387924,6,Dodger Stadium,Los Angeles,CA,56000,34.07387924,-118.2399521,National,Los Angeles Dodgers
+-71.09770966,42.34622192,7,Fenway Park,Boston,MA,37493,42.34622192,-71.09770966,American,Boston Red Sox
+-84.5064621,39.09720993,8,Great American Ballpark,Cincinnati,OH,42319,39.09720993,-84.5064621,National,Cincinnati Reds
+-81.68529511,41.49578857,9,Progressive Field,Cleveland,OH,43441,41.49578857,-81.6852951,American,Cleveland Indians
+-94.4804306,39.05163956,10,Kauffman Stadium,Kansas City,MO,37903,39.05163956,-94.4804306,American,Kansas City Royals
+-87.97118378,43.02811813,11,American Family Field,Milwaukee,WI,41900,43.02811813,-87.97118378,National,Milwaukee Brewers
+-95.35553741,29.75717926,12,Minute Maid Park,Houston,TX,40963,29.75717926,-95.35553741,National,Houston Astros
+-90.19306183,38.62258148,13,Busch Stadium,St. Louis,MO,43975,38.62258148,-90.19306183,National,St. Louis Cardinals
+-76.62155914,39.28395081,14,Oriole Park at Camden Yards,Baltimore,MD,45363,39.28395081,-76.62155914,American,Baltimore Orioles
+-122.3896942,37.77840042,15,Oracle Park,San Francisco,CA,41915,37.77840042,-122.3896942,National,San Francisco Giants
+-117.1570435,32.70756912,16,Petco Park,San Diego,CA,42302,32.70756912,-117.1570435,National,San Diego Padres
+-80.00615692,40.44704819,17,PNC Park,Pittsburgh,PA,38362,40.44704819,-80.00615692,National,Pittsburgh Pirates
+-122.3323517,47.59146881,18,T-Mobile Park,Seattle,WA,47878,47.59146881,-122.3323517,American,Seattle Mariners
+-73.84588623,40.75704193,19,Citi Field,Flushing,NY,41800,40.75704193,-73.84588623,National,New York Mets
+-97.08255005,32.75122833,20,Arlington Stadium,Arlington,TX,48114,32.75122833,-97.08255005,American,Texas Rangers
+-82.65345764,27.76812553,21,Tropicana Field,St. Petersburg,FL,34078,27.76812553,-82.65345764,American,Tampa Bay Rays
+-87.63365173,41.82984924,22,Guaranteed Rate Field,Chicago,IL,40615,41.82984924,-87.63365173,American,Chicago White Sox
+-87.65564728,41.94805908,23,Wrigley Field,Chicago,IL,41160,41.94805908,-87.65564728,National,Chicago Cubs
+-73.92623901,40.82963181,24,Yankee Stadium,Bronx,NY,49642,40.82963181,-73.92623901,American,New York Yankees
+-77.00740051,38.87305069,25,Nationals Park,Washington,DC,41418,38.87305069,-77.00740051,National,Washington Nationals
+-93.277771,44.98175049,26,Target Field,Minneapolis,MN,39021,44.98175049,-93.277771,American,Minnesota Twins
+-79.38941956,43.64142227,27,Rogers Centre,Toronto,ON,48292,43.64142227,-79.38941956,American,Toronto Blue Jays
+-80.2195282,25.77808952,28,LoanDepot Park,Miami,FL,37000,25.77808952,-80.2195282,National,Miami Marlins
+-122.2006226,37.7516098,29,RingCentral Coliseum,Oakland,CA,63026,37.7516098,-122.2006226,American,Oakland Athletics
+-84.46760559,33.89060974,30,Truist Park,Cumberland,GA,41084,33.89060974,-84.46760559,National,Atlanta Braves
+,,31,Veterans Stadium,,PA,62623,39.90399638,-75.16933266,National,Philadelphia Phillies
+,,32,Riverfront Stadium,,OH,52952,39.09133297,-84.50499798,,Cincinnati Reds
+,,34,Sportsman's Park*,,MO,30611,38.65466405,-90.21883246,,St. Louis Cardinals
+,,35,Jack Murphy Stadium,,CA,47972,32.77649689,-117.1183329,,San Diego Padres
+,,36,Three Rivers Stadium,,PA,47952,40.44133157,-80.00766664,,Pittsburgh Pirates
+,,37,Shea Stadium,,NY,57333,40.75333032,-73.8421633,,New York Mets
+,,38,The Metrodome,,MN,56144,44.97099612,-93.25483231,,Minnesota Twins
+,,39,Hard Rock Stadium,,FL,36331,25.95796,-80.239311,,Miami Marlins
+,,40,Turner Field,,GA,50096,33.73449706,-84.38699845,,Atlanta Braves
